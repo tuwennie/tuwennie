@@ -40,18 +40,3 @@
 
 </div>
 
----
-
-### 📈 Stats & Problem Solving
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=tuwennie&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="180" alt="GitHub Stats" />
-
-<img src="https://leetcard.jacoblin.cool/o4TT957IRp?theme=dark&font=ABeeZee&ext=heatmap" height="180" alt="LeetCode Stats" />
-
-</div>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuwennie&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="180" alt="Top Languages" />
-</div>
