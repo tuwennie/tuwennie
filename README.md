@@ -6,8 +6,6 @@
 
 *As a Software Engineering student, I focus on building robust backend architectures and cross-platform mobile applications.*
 
-[![](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tuba-rukiye-dan/)
-[![](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:tuba.dan@hotmail.com)
 
 </div>
 
