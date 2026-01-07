@@ -27,7 +27,7 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[DOU Student Society]([https://github.com/tuwennie/club-management-project.git])** | A cross-platform mobile application developed with clean architecture principles. It manages real-time data and user authentication seamlessly. | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black) |
+| **[DOU Student Society](https://github.com/tuwennie/club-management-project.git)** | A cross-platform mobile application developed with clean architecture principles. It manages real-time data and user authentication seamlessly. | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black) |
 
 ---
 
