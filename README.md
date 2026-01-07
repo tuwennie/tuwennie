@@ -13,7 +13,7 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 I am a **Software Engineering** student.
+- 🎓 I'm a **Software Engineering** student.
 - 💻 Currently focusing on **Java Spring Boot** and **Microservices**.
 - 📱 Developing mobile applications using **Flutter & Firebase**.
 - 🧠 Strong foundation in **Algorithms & Data Structures** (C/C++).
@@ -25,7 +25,7 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[DOU Student Society](https://github.com/tuwennie/club-management-project.git)** | A cross-platform mobile application developed with clean architecture principles. It manages real-time data and user authentication seamlessly. | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black) |
+| **[DOU Student Society](https://github.com/tuwennie/club-management-project.git)** | A comprehensive **Campus Event Tracking System** built with **Clean Architecture** & **MVVM**. Features **Role-Based Access Control (RBAC)** for club admins and students, real-time data sync via **Firestore**, and secure authentication. Designed with a strong focus on **scalability** and **performance** metrics.| ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black) |
 
 ---
 
