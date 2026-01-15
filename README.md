@@ -26,6 +26,7 @@
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **[DOU Student Society](https://github.com/tuwennie/club-management-project.git)** | A comprehensive **Campus Event Tracking System** built with **Clean Architecture** & **MVVM**. Features **Role-Based Access Control (RBAC)** for club admins and students, real-time data sync via **Firestore**, and secure authentication. Designed with a strong focus on **scalability** and **performance** metrics.| ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black) |
+| **[Library Management System](https://github.com/tuwennie/library-management-system)** | A robust **Backend System** engineered with **Java** and **Spring Boot**. Implements **RESTful Architecture** for efficient book & user management. Utilizes **Spring Data JPA** for ORM and supports complex **CRUD operations**. Built with a focus on **API Security**, **Error Handling**, and maintainable code structure. | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) |
 
 ---
 
