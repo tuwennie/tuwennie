@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi there, I'm Tuba! 👋
+# Hi there, I'm Tuba!
 
-### 🚀 Backend Developer | Flutter Enthusiast
+### Backend Developer | Flutter Enthusiast
 
 *As a Software Engineering student, I focus on building robust backend architectures and cross-platform mobile applications.*
 
@@ -11,9 +11,9 @@
 
 ---
 
-### 👩‍💻 About Me
+### About Me
 
-- 🎓 I'm a **Software Engineering** student.
+- 🎓 I am a **Software Engineering** student.
 - 💻 Currently focusing on **Java Spring Boot** and **Microservices**.
 - 📱 Developing mobile applications using **Flutter & Firebase**.
 - 🧠 Strong foundation in **Algorithms & Data Structures** (C/C++).
@@ -21,7 +21,7 @@
 
 ---
 
-### 📱 Featured Projects
+### Featured Projects
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
@@ -30,7 +30,7 @@
 
 ---
 
-### 🛠️ Languages & Tools
+### Languages & Tools
 
 <div align="center">
 
