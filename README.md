@@ -13,11 +13,11 @@
 
 ### About Me
 
-- 🎓 I am a **Software Engineering** student.
-- 💻 Currently focusing on **Java Spring Boot** and **Microservices**.
-- 📱 Developing mobile applications using **Flutter & Firebase**.
-- 🧠 Strong foundation in **Algorithms & Data Structures** (C/C++).
-- 🎯 **Goal:** Designing scalable and secure backend systems.
+- I am a **Software Engineering** student.
+- Currently focusing on **Java Spring Boot** and **Microservices**.
+- Developing mobile applications using **Flutter & Firebase**.
+- Strong foundation in **Algorithms & Data Structures** (C/C++).
+- **Goal:** Designing scalable and secure backend systems.
 
 ---
 
